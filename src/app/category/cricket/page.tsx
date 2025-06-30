@@ -59,7 +59,7 @@ export default function CricketPage() {
       <ChannelGrid 
         channels={cricketChannels}
         category="Cricket"
-        description="The gentleman's game featuring international tournaments, domestic leagues, and bilateral series"
+        description="The gentleman&apos;s game featuring international tournaments, domestic leagues, and bilateral series"
       />
       
       <Footer />
