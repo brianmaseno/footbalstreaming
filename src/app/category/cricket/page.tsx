@@ -51,7 +51,7 @@ export default function CricketPage() {
           </h1>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
             Watch live cricket matches from IPL, World Cup, T20, ODI, and Test series. 
-            Experience the gentleman's game with premium streaming quality.
+            Experience the gentleman&apos;s game with premium streaming quality.
           </p>
         </div>
       </section>
